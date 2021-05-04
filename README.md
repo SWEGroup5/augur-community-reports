@@ -1,3 +1,8 @@
+# Group 5's Project
+Here you will find our work on the augur-community-reports repository. In the root of the directory, there will be a file called [issues_to_change_commands.ipynb](https://github.com/SWEGroup5/augur-community-reports/blob/master/issues_to_change_requests.ipynb) where we have put most of our work on creating a new metric. The metric is, as you can probably guess, the same as the name of the file.
+
+Below you will find the rest of the Community Reports README.md. Click [here](https://github.com/chaoss/augur-community-reports) to go to the main augur-community-reports repository.
+
 # Community Reports
 Building reports from the Augur database schema is an important way for catalogouing questions that our users ask, as well as how we can make the most of the extensive, validated data Augur gathers. Everything is not "dashboard material". Over time, reports people find useful will become APIS in Augur that can be used to construct automated community reports. This is a repository for engaged requirements gathering in the agile spirit. 
 
