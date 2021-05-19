@@ -1,7 +1,7 @@
 # Group 5's Project
 Here you will find our work on the augur-community-reports repository. In the root of the directory, there will be a file called [issues_to_change_commands.ipynb](https://github.com/SWEGroup5/augur-community-reports/blob/master/issues_to_change_requests.ipynb) where we have put most of our work on creating a new metric. The metric is, as you can probably guess, the same as the name of the file: issues to change requests.
 
-For our final sprint for this project, we added a demo video to the repository that you can watch [here](https://github.com/SWEGroup5/augur-community-reports/blob/master/SWEFinalProjectDemo.mp4).
+For our final sprint for this project, we added a demo video to the repository that you can watch [here](https://youtu.be/qTGoiLQSwaA).
 
 Below you will find the rest of the Community Reports README.md. Click [here](https://github.com/chaoss/augur-community-reports) to go to the main augur-community-reports repository.
 
